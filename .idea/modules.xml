@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thunderbolt-cli/thunderbolt-cli.iml" filepath="$PROJECT_DIR$/thunderbolt-cli/thunderbolt-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thunderbolt-core/thunderbolt-core.iml" filepath="$PROJECT_DIR$/thunderbolt-core/thunderbolt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thunderbolt-miner/thunderbolt-miner.iml" filepath="$PROJECT_DIR$/thunderbolt-miner/thunderbolt-miner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thunderbolt-modules.iml" filepath="$PROJECT_DIR$/thunderbolt-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thunderbolt-node/thunderbolt-node.iml" filepath="$PROJECT_DIR$/thunderbolt-node/thunderbolt-node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thunderbolt-wallet/thunderbolt-wallet.iml" filepath="$PROJECT_DIR$/thunderbolt-wallet/thunderbolt-wallet.iml" />
+    </modules>
+  </component>
+</project>
